@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanv\\Desktop\\DEV\\back-end\\EX2\\EX2.csproj",
-      "projectName": "EX2",
-      "projectPath": "C:\\Users\\juanv\\Desktop\\DEV\\back-end\\EX2\\EX2.csproj",
-      "packagesPath": "C:\\Users\\juanv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanv\\Desktop\\DEV\\back-end\\EX2\\obj\\",
+      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end.csproj",
+      "projectName": "Array",
+      "projectPath": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end.csproj",
+      "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\juanv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
